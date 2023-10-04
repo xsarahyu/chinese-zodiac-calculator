@@ -4,6 +4,7 @@
 - The Chinese Zodiac is a system of astrology based on a 12-year cycle, where each year is associated with one animal: rat🐭, ox🐂, tiger🐯, rabbit🐰, dragon🐲, snake🐍, horse🐴, goat🐐, monkey🐵, rooster🐓, dog🐶, or pig🐷. Each animal has distinct personality traits and destinies, which are inherited by people born under its year.
 - This program takes any year (even 1, 9999, and beyond!) and calculates the zodiac animal that it's associated with, as well as personality traits and destinies.
 - Curious to know which animal sign you are? Use my Chinese Zodiac Calculator to find out!
+
 ![image of program](chinese-zodiac-calculator.png)
 
 ### Tech Used
